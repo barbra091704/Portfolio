@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 515ce4e6de5fefd47889ddfb3d1d413c, type: 3}
+  m_Name: Quest3
+  m_EditorClassIdentifier: 
+  QuestID: 3
+  ItemInfo: {fileID: 4536620522170486278, guid: a63db0a8739584e41a3dcbc8b6fbf749,
+    type: 3}
+  DaysToComplete: 4
+  Reward: 155
+  ItemID: 2
+  sprite: {fileID: 0}

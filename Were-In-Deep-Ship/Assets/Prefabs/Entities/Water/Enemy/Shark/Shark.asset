@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 233282148fcd0924abe424d1fed916a9, type: 3}
+  m_Name: Shark
+  m_EditorClassIdentifier: 
+  DepthRange: {x: -150, y: -5}
+  HearingRange: 0
+  SizeMinMax: {x: 1, y: 3}
+  EntityType: 0
+  EntityID: 1
+  MaxHealth: 200
+  WanderSpeed: 85
+  AttackSpeed: 200
+  FleeSpeed: 300
+  FleeDistance: 75
+  DetectionRange: 0
+  Stamina: 125
+  DamageResistance: 25
+  WanderRadius: 15
+  AttackStopDistance: 2
+  CanAttack: 1
+  DamageInterval: 1
+  AttackAmount: 2
+  AttackDamage: 5
