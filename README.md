@@ -7,6 +7,8 @@ These arent the best example of my abilities but, I can prove my skills if neede
 
 Hello, Fruit - 2021.3.12f1: Second project i ever made, for a 14 day game jam. this was when i first started to really get into making games.
 
+Scary Atmosphere Test: I lost the project files but it was just really a test using unitys hdrp, and put together a feel i was going to go for in a project.
+
 Prop Hunt - 2021.3.17f1: This was made alone and took about 30 days, my first multiplayer game using unity PUN2. It wasnt the best coding. but i learned a LOT about networking.  (The build in the Game Builds is the completed build but i couldnt find the finished project files.)
 
 Caged2 2022.3.19f1: Prececessor to my original caged project i lost, I was in way over my head, but i made some neat scripts, and an inteligent AI. Also networked using PUN2 Had to delete alot of the project to fit it, but kept the scripts.
@@ -18,7 +20,5 @@ High On Catnip - I lost the project files but its on my itch.io: Game i made in 
 Bunker - 2022.3.34f1: Project im currently working on, i made a pretty detailed reverse building and excavating system. Been working on it for about 2 weeks, made with the new input system, and random terrain generation with procedural customizable bunkers. Its a WIP so its not pretty.
 
 Tiny Sniper (aka SecretSuspects) - 2022.3.19f1: Made in 10 days in the 2024 LOWRESGAMEJAM, multiplayer social deduction game, i did some decent networking for being time limited. all done my be, a little art help from a friend.
-
-Scary Atmosphere Test: I lost the project files but it was just really a test using unitys hdrp, and put together a feel i was going to go for in a project.
 
 Larry : sculpt i did around a year ago, i have alot of fun sculpting too, aswell as rigging and modeling.
